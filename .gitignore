@@ -4,6 +4,7 @@ node_modules
 *.bak
 *.tmp
 Thumbs.db
+
 *.psd
 .idea
 *.log

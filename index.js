@@ -1,6 +1,7 @@
 /**
  * Created by sky on 16/3/26.
  */
+
 module.exports = function(content, file){
     var map = fis.compile.lang;
     var reg = /(\{%\s*)(?:(require\s+(?:\$id\s*=\s*)?)('[^']+'|"[^"]+")([\s\S]*?%\})|(script\s*%\})([\s\S]+?)(\{%\s*endscript\s*%}))/g;
