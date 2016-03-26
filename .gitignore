@@ -1,0 +1,14 @@
+component_modules
+node_modules
+.DS_Store
+*.bak
+*.tmp
+Thumbs.db
+*.psd
+.idea
+*.log
+/dist
+.project
+.settings
+npm-debug.log
+*.iml
